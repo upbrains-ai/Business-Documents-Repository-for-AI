@@ -17,9 +17,9 @@ This repository is a community place for gathering pointers to Business Document
 
 - FUNSD <br>
 **URL**: https://guillaumejaume.github.io/FUNSD/ <br>
-Desc:  The dataset comprises of 199 real-wold fully annotated, scanned forms. The forms are selected from RVL-CDIP dataset, which is in turn  subset of the Truth Tobacco Industry Document (TTID). The dataset is broken into a training set consisting of 149 forms, and 50 testing documents. <br>
-Tasks: OCR, text detection, question answering, entity (sequence) labeling, entity linking. <br>
-Labels: There are 4 main labels on the span of text in the documens, i.e., header, question, answer, and other.  <br>
+**Desc**:  The dataset comprises of 199 real-wold fully annotated, scanned forms. The forms are selected from RVL-CDIP dataset, which is in turn  subset of the Truth Tobacco Industry Document (TTID). The dataset is broken into a training set consisting of 149 forms, and 50 testing documents. <br>
+**Tasks**: OCR, text detection, question answering, entity (sequence) labeling, entity linking. <br>
+**Labels**: There are 4 main labels on the span of text in the documens, i.e., header, question, answer, and other.  <br>
 
 - XFUND <br>
 **URL**: https://github.com/doc-analysis/XFUND <br>
