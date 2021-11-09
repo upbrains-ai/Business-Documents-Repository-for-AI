@@ -2,9 +2,6 @@
 This repository is a community place for gathering pointers to Business Documents that are available for use in R&amp;D and machine learning and AI projects. The goal of this effort is to foster sharing business documents in support of machine learning and AI research in Document Intelligence topics.
 
 
-# diDatasets
-Living listing of datasets available for Document Intelligence tasks. See associated Medium article at link [https://medium.com/@jdegange85/document-image-datasets-b7f8df01010d](Medium)
-
 ## Table of contents
 1. [General (assorted forms)](#formsassorted)
 2. [Receipts](#receipts)
