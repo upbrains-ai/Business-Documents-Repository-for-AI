@@ -16,25 +16,22 @@ This repository is a community place for gathering pointers to Business Document
 ## General (Assorted) Forms <a name="formsassorted"></a>
 
 - FUNSD <br>
-URL: https://guillaumejaume.github.io/FUNSD/ <br>
-Desc: <br>
-Tasks: <br>
-Labels:
+*URL*: https://guillaumejaume.github.io/FUNSD/ <br>
+Desc:  The dataset comprises of 199 real-wold fully annotated, scanned forms. The forms are selected from RVL-CDIP dataset, which is in turn  subset of the Truth Tobacco Industry Document (TTID). The dataset is broken into a training set consisting of 149 forms, and 50 testing documents. <br>
+Tasks: OCR, text detection, question answering, entity (sequence) labeling, entity linking. <br>
+Labels: There are 4 main labels on the span of text in the documens, i.e., header, question, answer, and other.  <br>
 
 - XFUND <br>
 URL: https://github.com/doc-analysis/XFUND <br>
-Desc: <br>
-Tasks: <br>
-Labels: <br>
+Desc: XFUND is a multilingual form understanding benchmark dataset that includes human-labeled forms with key-value pairs in 7 languages (Chinese, Japanese, Spanish, French, Italian, German, Portuguese). <br>
+Tasks: Semantic Entity Recognition, Relation Extraction.<br>
+Labels: Header,	Question,	Answer,	Other<br>
 
-- NAF <br>
+- NAF (National Archives Forms) Dataset<br>
 URL: https://github.com/herobd/NAF_dataset <br>
-Desc: <br>
-Tasks: <br>
-Labels: <br>
-
-- MARG <br>
-URL: https://www.researchgate.net/figure/MARG-dataset-visual-definition-of-the-nine-layout-types_tbl1_50842687 <br>
+Desc: The goal of this data is to capture relationships between text/handwriting entities on form images.<br>
+Tasks: Semantic Entity Recognition, Relation Extraction. <br>
+Labels: Label, Value (key - value). <br>
 
 
 
